@@ -62,6 +62,15 @@
         {
             "views": [
                 {
+                    "text": "Sep 18, 2025",
+                    "class": "DepictionTableTextView",
+                    "title": "Version 1.0.1"
+                },
+                {
+                    "markdown": "- Added Arabic localization\n- Updated all localizations",
+                    "class": "DepictionMarkdownView"
+                },
+                {
                     "text": "Sep 14, 2025",
                     "class": "DepictionTableTextView",
                     "title": "Version 1.0"
